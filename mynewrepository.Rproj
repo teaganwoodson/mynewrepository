@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 92b50b85-c40f-4b8a-bb5e-78844effdc45
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: mynewrepository
